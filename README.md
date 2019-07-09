@@ -10,6 +10,7 @@ vendor/bin/phpunit
 php artisan serve
 ```
 
+
 In another terminal test with:
 ```
 curl -H "Content-Type: application/json" \
